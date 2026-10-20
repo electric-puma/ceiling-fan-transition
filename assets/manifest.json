@@ -1,0 +1,62 @@
+[
+  {
+    "path": "assets/images/01-ring-organism.png",
+    "bytes": 3202384,
+    "sha256": "5b25acc265ac75e2029fd3e56d8bfe73be0df4aca60474e5f1fc7cb37f554cc9"
+  },
+  {
+    "path": "assets/images/02-split-head-pancake.png",
+    "bytes": 3087386,
+    "sha256": "ba821c29809154fad269cea070e0b3b0f35abe132ab648f3134875f3a86087f6"
+  },
+  {
+    "path": "assets/images/03-transparent-bell.png",
+    "bytes": 2932578,
+    "sha256": "89f76d94b8ebbda5fa65ba61ec61e5b30c6487b99be533125a6aaa120ce8dcb1"
+  },
+  {
+    "path": "assets/images/04-purple-walking-pillow.png",
+    "bytes": 3089690,
+    "sha256": "5725c10c244aaefb8fca8d948ab7d160bcfb9411de38e56a7de773d25f068f2d"
+  },
+  {
+    "path": "assets/images/05-coral-many-armed.png",
+    "bytes": 3033648,
+    "sha256": "f03c584c60db44664cfddc4ead2e6ca6d7e2c0a009713ed2f2cbb36fa2fe72a7"
+  },
+  {
+    "path": "assets/images/fan-rotor-transparent.png",
+    "bytes": 705340,
+    "sha256": "e875af5f0a3bd5119c9ea2e75cf1212c1d2fc8fcb345b8974cb7ffca1bb8f6c1"
+  },
+  {
+    "path": "assets/sfx/01-ring-organism.mp3",
+    "bytes": 32301,
+    "sha256": "96149cd975589eca92244f6a87b1ff677e73b3d3878b802251553f9d95617d09",
+    "duration_seconds": 1.28
+  },
+  {
+    "path": "assets/sfx/02-split-head-pancake.mp3",
+    "bytes": 32301,
+    "sha256": "a921ef34fad037b019df1bbf0ebf2c4ec1a7dc8984ee8cfab8acc88b57b443bd",
+    "duration_seconds": 1.28
+  },
+  {
+    "path": "assets/sfx/03-transparent-bell.mp3",
+    "bytes": 32301,
+    "sha256": "3f8aeb91333a94714befc368d9f17c8b658b0fd4d2e90f4a066dfe374d3475ae",
+    "duration_seconds": 1.28
+  },
+  {
+    "path": "assets/sfx/04-purple-walking-pillow.mp3",
+    "bytes": 32301,
+    "sha256": "e22b1c83bb8cce2317fa8b052ea15e0fa60cf7379a511f0cdfd338e19aaf6e86",
+    "duration_seconds": 1.28
+  },
+  {
+    "path": "assets/sfx/05-coral-many-armed.mp3",
+    "bytes": 32301,
+    "sha256": "50c94740c36ea03fee74c73f2bfa780c59d92d087149d8c7a0ec7ebb738f7c69",
+    "duration_seconds": 1.28
+  }
+]
